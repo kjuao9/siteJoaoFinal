@@ -1,0 +1,4 @@
+<?php
+   $d = 'imagens/a7cac86f233406b3cbcfcfa2072cb8cb.jpg';
+   include_once '../includes/noticia.php';
+   ?>
