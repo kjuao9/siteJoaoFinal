@@ -2,7 +2,7 @@
 function conecta_mysql(){
 	$host = "mysql380.umbler.com";
 	$usuario = "joaopaulo";
-	$senha = "papaulo91775127";
+	$senha = ":-D";
 	$nome_bd = "joaopaulo";
 
 	$conexao = mysqli_connect($host,$usuario,$senha,$nome_bd);
